@@ -1,4 +1,4 @@
 wpReferences
 ============
 
-Simple references plugin for wordpress
+A simple references plugin for wordpress
